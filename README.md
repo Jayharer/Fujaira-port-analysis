@@ -12,7 +12,7 @@ ETD     : Estimated time of departure
 QTY     : Cargo(Commodity) quantity
 SHIPPER : Company that transports(supply) goods by sea.
 
-# project consist of three part
+# project consist of four part
 
 # Part one
 Read raw dataset remove duplicate and write into new file using R.
